@@ -284,3 +284,8 @@ If you're unsure where something belongs, open an issue and we'll figure it out 
 If this list helped you, consider giving it a ⭐ — it helps others find it too.
 
 </div>
+
+
+## Helium Trades Open Benchmarks (2026)
+
+- [Helium Market Resolution Benchmark](https://huggingface.co/datasets/HeliumTrades/helium-market-resolution-benchmark) - 300 frozen option-chain prompts; tests IV, delta, arbitrage. [Overview](https://heliumtrades.com/benchmarks/)
