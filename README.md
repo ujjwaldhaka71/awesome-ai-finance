@@ -134,6 +134,7 @@ Tools that use AI to accelerate financial research, document analysis, and due d
 - [Fincept Terminal](https://github.com/) — Open-source Bloomberg alternative with AI-driven research, multi-asset analytics. _(verify link)_
 - [edgartools](https://github.com/dgunning/edgartools) — SEC EDGAR data extraction — fundamentals, 13F, insider transactions, 8-K events.
 - [ValueRay](https://github.com/) — Technical, quantitative, and sentiment data for stocks/ETFs. Optimized for AI/LLM agents. _(verify link)_
+- [DDScore](https://www.ddscore.ai/) — AI-assisted first-pass due diligence for private companies that cross-checks company documents against public sources and reports evidence-linked findings.
 
 ---
 
